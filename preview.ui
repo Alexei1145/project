@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>460</width>
+    <height>348</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Предистория</string>
+  </property>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>460</width>
+     <height>400</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>460</width>
+     <height>400</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>460</width>
+     <height>400</height>
+    </size>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Шел 1983 год, Вы, гражданин славного госурадства Экситус, после долгой и упорной работы дослужились до сотрудника пограничной службы.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;В Ваши обязанности входит проверка документов приезжих людей в страну.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Если документы приезжего в полном порядке, то необходимо открыть турникет.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Если документы приезжего просрочены, то необходимо отказать в проезде.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Если документы приезжего содержат ошибку, то необходимо задержать приезжего для выяснения ситуации.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;При въезде необходимо предъявлять &lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;Р&lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;азрешение на въезд&lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; color:#000000; background-color:#ffffff;&quot;&gt; и &lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;Паспорт.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; color:#000000; background-color:#ffffff;&quot;&gt;Гражданам Экситуса &lt;/span&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;Р&lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;азрешение на въезд&lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; color:#000000; background-color:#ffffff;&quot;&gt; не требуется.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt; font-weight:600;&quot;&gt;Р&lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;азрешение на въезд &lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; color:#000000; background-color:#ffffff;&quot;&gt;содержит печать &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:9pt; color:#000000;&quot;&gt;ψ, &lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;Паспорт &lt;/span&gt;&lt;span style=&quot; font-family:'-apple-system'; font-size:9pt; color:#000000; background-color:#ffffff;&quot;&gt;содержит печать &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; color:#000000;&quot;&gt;ϒ.&lt;/span&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt; Печати подтверждают подлинность документа.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;Это ваша первая практика. Хвала Экситусу!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ok">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>320</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OK</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
